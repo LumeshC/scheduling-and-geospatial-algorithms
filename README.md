@@ -1,4 +1,4 @@
-# AOA Project 1 — Decision-Grade Scheduling & Geospatial Proximity
+Decision-Grade Scheduling & Geospatial Proximity
 
 End-to-end algorithmic package for two enterprise decision primitives:
 
